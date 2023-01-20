@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     justify-content: center;
-    background: url("https://images.unsplash.com/photo-1674066636011-d445199acada?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyMjF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60");
+    background: url("https://images.unsplash.com/photo-1499002238440-d264edd596ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njk1fHxwdXJwbGUlMjBoaWxsc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60");
     background-size: cover;
     overflow: hidden;
 
@@ -33,7 +33,7 @@ h2 {
 .clock span {
     width: 100px;
     height: 80px;
-    background: rgb(239, 98, 98);
+    background: rgb(153, 90, 236);
     opacity: 0.8;
     color: white;
     display: flex;
@@ -48,7 +48,7 @@ h2 {
     font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    background: rgb(84, 1, 1);
+    background: rgb(9, 1, 251);
 }
 
 .clock #ampm {
